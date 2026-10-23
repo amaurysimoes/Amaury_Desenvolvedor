@@ -5,7 +5,7 @@ export const profile = {
   email: 'amaury.hs@gmail.com',
   linkedin: 'https://www.linkedin.com/in/amaury-sim%C3%B5es-30448b70/',
   about: [
-    'Desenvolvo software e automação para testes e produção na indústria de eletrônicos e informática, em empresas como Positivo, Jabil, Cal-Comp, Avell e Grupo Multilaser. Atuo como desenvolvedor full stack, no front-end e no back-end. No dia a dia, escrevo rotinas de teste e automação em C# (.NET), C++, Java e Python, e construo aplicações web e mobile com JavaScript, Node.js (NestJS e Prisma), Electron, React e React Native.',
+    'Desenvolvo software e automação para testes e produção na indústria de eletrônicos e informática, com passagem por empresas como Positivo, Jabil, Cal-Comp, Avell e Grupo Multilaser. Atuo como desenvolvedor full stack, no front-end e no back-end. No dia a dia, escrevo rotinas de teste e automação em C# (.NET), C++, Java e Python, e construo aplicações web e mobile com JavaScript, Node.js (NestJS e Prisma), Electron, React e React Native.',
     'Também publico aplicações em nuvem e hospedagem (AWS, Render, Firebase e Hostinger), uso Docker e bancos de dados relacionais, configuro equipamentos de teste de RF e programo robôs Epson. Sou graduado em Gestão de TI, pós-graduado em Desenvolvimento de Aplicativos Mobile e estou cursando Engenharia de Software.',
   ],
 }
