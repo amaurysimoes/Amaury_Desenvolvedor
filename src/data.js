@@ -11,7 +11,7 @@ export const profile = {
 }
 
 export const stats = [
-  { value: 20, suffix: '+', label: 'anos em TI e eletrônica' },
+  { value: 20, suffix: '+', label: 'anos em desenvolvimento de sistemas e eletrônica' },
   { value: 6, suffix: '', label: 'empresas de tecnologia e indústria' },
   { value: 10, suffix: '+', label: 'linguagens de programação' },
   { value: 3, suffix: '', label: 'formações superiores' },
