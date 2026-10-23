@@ -1,17 +1,17 @@
 export const profile = {
   name: 'Amaury Huerb Simões',
   role: 'Analista de Engenharia de Testes · Desenvolvimento de Software e Automação',
-  lead: 'Mais de 20 anos na indústria de eletrônicos e informática, criando software e automação que colocam testes e produção para rodar: de rotinas em C# e Python a robôs Epson e aplicações web na nuvem.',
+  lead: 'Desenvolvo software e automação para testes e produção na indústria de eletrônicos e informática, com C#, C++, Python, Java, JavaScript, Node.js, NestJS e Prisma: de rotinas de teste a aplicações web na nuvem.',
   email: 'amaury.hs@gmail.com',
   linkedin: 'https://www.linkedin.com/in/amaury-sim%C3%B5es-30448b70/',
   about: [
-    'Desenvolvo software e automação para testes e produção na indústria de eletrônicos e informática, em empresas como Positivo, Jabil, CalComp, Avell e Grupo Multilaser. No dia a dia, escrevo rotinas de teste e automação em C#, C++, Java e Python, e construo aplicações web e mobile com JavaScript, Node.js (NestJS e Prisma), Electron, React e React Native.',
+    'Desenvolvo software e automação para testes e produção na indústria de eletrônicos e informática, em empresas como Positivo, Jabil, Cal-Comp, Avell e Grupo Multilaser. No dia a dia, escrevo rotinas de teste e automação em C#, C++, Java e Python, e construo aplicações web e mobile com JavaScript, Node.js (NestJS e Prisma), Electron, React e React Native.',
     'Também publico aplicações em nuvem e hospedagem (AWS, Render, Firebase e Hostinger), uso Docker e bancos de dados relacionais, configuro equipamentos de teste de RF e programo robôs Epson. Sou graduado em Gestão de TI, pós-graduado em Desenvolvimento de Aplicativos Mobile e estou cursando Engenharia de Software.',
   ],
 }
 
 export const stats = [
-  { value: 20, suffix: '+', label: 'anos em desenvolvimento de sistemas e eletrônica' },
+  { value: 13, suffix: '+', label: 'anos em desenvolvimento de sistemas e automação na indústria' },
   { value: 6, suffix: '', label: 'empresas de tecnologia e indústria' },
   { value: 10, suffix: '+', label: 'linguagens de programação' },
   { value: 3, suffix: '', label: 'formações superiores' },
@@ -31,7 +31,7 @@ export const skills = [
 export const experience = [
   { role: 'Analista de Engenharia de Testes', org: 'Grupo Multilaser', period: 'Set/2024 – atual' },
   { role: 'Analista de Desenvolvimento de Sistemas', org: 'Avell (Best Notebooks)', period: 'Dez/2022 – Jul/2024', text: 'Desenvolvimento de testes para notebooks em C# e Python.' },
-  { role: 'Técnico de Automação Nível 2 / Desenvolvedor C#, C++ e Java', org: 'CalComp', period: 'Jan/2020 – Dez/2022', text: 'Configuração e ajuste de equipamentos de automação e robôs Epson RC70 e RC50. Desenvolvimento de rotinas de automação no software do fabricante (Epson).' },
+  { role: 'Técnico de Automação Nível 2 / Desenvolvedor C#, C++ e Java', org: 'Cal-Comp', period: 'Jan/2020 – Dez/2022', text: 'Configuração e ajuste de equipamentos de automação e robôs Epson RC70 e RC50. Desenvolvimento de rotinas de automação no software do fabricante (Epson).' },
   { role: 'Técnico de Engenharia de Testes', org: 'Jabil', period: 'Mar/2019 – Nov/2019', text: 'Calibração e configuração de equipamentos de teste de processo CMW500 e HP 8960.' },
   { role: 'Analista de Engenharia de Testes', org: 'Positivo Tecnologia S/A', period: 'Nov/2012 – Dez/2018', text: 'Desenvolvimento de aplicações em C#, Shell Script, PowerShell, Visual Basic e Java. Configuração de equipamentos de teste 3G/4G (CMW), ShieldBox e gerador de sinais GPS. Criação de matrizes de imagem para o processo, com Windows e Linux.' },
   { role: 'Técnico em Eletrônica', org: 'Flex Importação e Exportação', period: 'Jun/2011 – Nov/2012', text: 'Manutenção de placas de notebooks, refusão e troca de BGA; reparo de placas biomédicas Dixtal.' },
