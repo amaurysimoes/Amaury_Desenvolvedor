@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Amaury Huerb Simões',
-  role: 'Analista de Engenharia de Testes · Desenvolvedor Full Stack (.NET) e Automação',
+  role: 'Desenvolvedor Full Stack · Automação, Sistemas Embarcados e Engenharia de Testes',
   lead: 'Desenvolvedor full stack, front-end e back-end, com software e automação para testes e produção na indústria de eletrônicos e informática: C#/.NET, C++, Python, Java, JavaScript, Node.js, NestJS e Prisma, de rotinas de teste a aplicações web na nuvem.',
   email: 'amaury.hs@gmail.com',
   linkedin: 'https://www.linkedin.com/in/amaury-sim%C3%B5es-30448b70/',
